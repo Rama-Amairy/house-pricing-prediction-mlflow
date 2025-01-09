@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+.env
+.venv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+mlartifacts/
+*.mlmodel
+
+# Data
+*.csv
+*.json
+*.xls
+*.xlsx
+*.docx
+
+
+# MLflow artifacts
+mlruns/
+*.mlmodel
+
+
+
+# Other
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+
+*.pkl
+*.mlmodel
+mlartifacts/

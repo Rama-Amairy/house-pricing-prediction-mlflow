@@ -1,0 +1,15 @@
+annotated-types 
+anyio   
+fastapi   
+idna     
+joblib   
+numpy    
+pip        
+pydantic  
+pydantic_core  
+setuptools    
+sniffio       
+starlette   
+typing_extensions
+uvicorn[standard]
+python-dotenv
